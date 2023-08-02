@@ -1,4 +1,4 @@
-//UrlValidator.js
+//UrlValidator.jsx
 import React, { useState,useEffect } from 'react';
 
 function UrlValidator() {
